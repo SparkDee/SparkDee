@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SparkDee
+- 👋 Hi, I’m Mark @SparkDee
 -
 - I’m currently learning PHP, Java, MySQL, Android. Next up REACT.
 - Recent MSc Software Development graduate from QUB.
